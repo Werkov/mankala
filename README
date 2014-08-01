@@ -1,0 +1,8 @@
+Toguz kumalak
+=============
+
+- mankala game solved with naive minimax
+- TODO correct implementation of tuzdeks
+- compilation notes:
+	- requires C++ 11 (i.e. GCC >=4.8, MSVC >=12 (MSVS 2013))
+- http://www.mankala.cz/pravidlaToguzKumalak.php
